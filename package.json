@@ -1,0 +1,32 @@
+{
+  "name": "PrefetchLoader",
+  "version": "1.0.0",
+  "description": "Read static content (CSS / JavaScript / Image) as Async or Defer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/suzunone/PrefetchLoader.git"
+  },
+  "keywords": [
+    "Prefetch",
+    "Loader"
+  ],
+  "author": "Suzunone",
+  "license": "",
+  "homepage": "https://github.com/suzunone/PrefetchLoader",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-typescript": "^3.1.6",
+    "gulp-uglify": "^2.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-changed": "^2.0.0",
+    "run-sequence": "^1.2.2",
+    "tsc": "^1.20150623.0",
+    "typescript": "^2.2.1",
+    "typescript-simple": "^8.0.0"
+  }
+}
